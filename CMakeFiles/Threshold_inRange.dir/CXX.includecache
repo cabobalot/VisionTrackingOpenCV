@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cab/Documents/openCVTest/Threshold_inRange/Threshold_inRange.cpp
+opencv2/imgproc/imgproc.hpp
+/home/cab/Documents/openCVTest/Threshold_inRange/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+-
+iostream
+-
+

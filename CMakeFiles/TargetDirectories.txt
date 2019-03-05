@@ -1,0 +1,3 @@
+/home/cab/Documents/openCVTest/Threshold_inRange/CMakeFiles/edit_cache.dir
+/home/cab/Documents/openCVTest/Threshold_inRange/CMakeFiles/rebuild_cache.dir
+/home/cab/Documents/openCVTest/Threshold_inRange/CMakeFiles/Threshold_inRange.dir
